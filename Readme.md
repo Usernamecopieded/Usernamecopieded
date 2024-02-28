@@ -1,8 +1,13 @@
+
 <h1 align="center">Hi 👋, I'm Avinash Ghadge</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
+<div align="center">
+  <img align="#" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+</div>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usernamecopieded&label=Profile%20views&color=0e75b6&style=flat" alt="usernamecopieded" /> </p>

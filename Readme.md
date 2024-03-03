@@ -47,12 +47,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usernamecopieded&" alt="usernamecopieded" /></p>
 
 
-## 
-![snake gif](https://github.com/Usernamecopieded/Usernamecopieded/blob/output/github-contribution-grid-snake.gif)
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Usernamecopieded/Usernamecopieded/output/snake.svg" alt="Snake animation" />
-
-###
 
